@@ -1,0 +1,13 @@
+:root { 
+  --astronaut: #293372;
+  --black: #000000;
+  --crimson: #e61616;
+  --orange-red: #ef2626;
+  --white: #ffffff;
+ 
+  --font-size-l: 15px;
+  --font-size-m: 12px;
+  --font-size-s: 10px;
+ 
+  --font-family-noto_sans: "Noto Sans", Helvetica;
+}

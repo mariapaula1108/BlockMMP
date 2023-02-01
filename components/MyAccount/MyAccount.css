@@ -1,0 +1,9 @@
+.myaccount {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 852px;
+  position: relative;
+  width: 393px;
+}
+
